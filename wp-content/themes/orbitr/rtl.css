@@ -1,0 +1,121 @@
+blockquote{border-right:none;}
+blockquote:before{right:0;}
+blockquote:after{left:10px;}
+ul, ol{margin:0 3em 1.5em 0;}
+li > ul,li > ol{margin:0.5em 2em 0.5em 0;}
+.site-header{right:0;}
+.site-header .logo, .nav-previous{float:right;}
+.toggle, .sitenav ul{float:left;}
+.sitenav{text-align:left;float:left;}
+.sitenav ul li ul li a, div.footer-sidebar-wrapper, .post-content.clear p, 
+div.post-content,.page-content, .content-bar .contactform textarea{text-align:right;}
+.sitenav ul li:hover > ul{right:0;text-align:right;}
+.sitenav ul li:hover ul li:hover > ul{right:200px;}
+#counter .col-sm-4{border-left:1px solid #fff;}
+#counter .col-sm-4:last-child{border-left:none;}
+#counter .counter-overlay{right:0;}
+.white-border-bottom:before, .dark-border-bottom:before{right:25%;}
+.red-border-bottom:before{right:0;}
+.green-border-bottom:before, .yellow-border-bottom:before, .blue-border-bottom:before {right:12.5%;}
+.our-team .row .team-box{margin-left:-4px;}
+.team-member .details{text-align:right;right:30px;}
+.team-member .social-ico ul{margin:0 0 1.5em 0;}
+.row{float:right;margin-left:0;margin-right:0;}
+.pricing_div{padding:60px 0 55px 0;}
+.pricing_div .pricing_sep{margin-right:auto;margin-left:auto;}
+.pricing_wrapper .pricing_item{padding:35px 5px 5px 5px;margin:0 9px 45px 9px;}
+.pricing_wrapper .pricing_item ul, .pricing_wrapper .pricing_item ul li{padding-right:0;}
+.pricing_wrapper .pricing_item ul li.table_button a{padding:0 19px 0 19px;margin:30px 0 17px 0;}
+.awe-overlay{right:0;left:0;}
+.three-column-box:after{border-color:#ffffff #5F5F60 #5F5F60 #ffffff;left:-26px;}
+.three-column-box:hover:after{left:0px;}
+.orbitr-boxed{padding:20px 10px 0 20px;}
+.team-heading h2:before{margin-right:-115px;}
+.team-heading h2:after{margin-right:15px;}
+.blog-wrapper .thumb .member-image-hover{right:0;left:0;}
+.member-image-hover i{right:45%;}
+.content-bar div.blog-post{padding:20px 80px 20px 0;}
+.blog-date{right:0;}
+.post-readmore, .thumb_meta p.readmore{text-align:left;}
+div.post-content .post-meta ul{padding:0 5px 0px 5px;text-align:right;}
+a.wpanch:after{margin-right:10px;}
+a.wpanch:before{margin-left:10px;}
+div.thumb_meta div.post-meta ul li{margin-left:3px;}
+.fsidebar h4{margin:0 0 13px 0;}
+.fsidebar h4:before{right:20px;}
+.content-bar div.post-meta ul li{margin-left:5px;}
+.post-content table th, .post-content table td, .page .page-content table th, .page .page-content table td{border-right:1px solid #ddd;text-align:right;}
+.post-content table, .page .page-content table{border-right:0;}
+.sidebar h4:after{right:28%;margin-right:-20%;}
+.sidebar h4:before{right:40px;}
+.sidebar ul{margin:0 1.9em 1.5em 0;}
+.sidebar ul li a{padding-right:7px;}
+.sidebar ul li.recentcomments span{padding-right:5px;}
+.sidebar .search-form input[type="submit"],.search-form input[type="submit"]{margin-right:-37px;padding-left:16px;padding-right:16px;}
+.sidebar select{padding-right:5px;}
+#wp-calendar caption{padding:0px 0 7px 0;}
+div.fsidebar ul li:before{margin-left:7px;}
+div.fsidebar ul{padding-right:5px;}
+.fsidebar select{padding-right:5px;}
+.fsidebar .search-form input[type="submit"]{left:1px;}
+.fsidebar .search-form div i.fa.fa-search{left:11px;}
+.content-bar .contactform input[type="text"], .content-bar .contactform input[type="email"]{padding-right:7px;}
+.content-bar .contactform input[type="text"]{margin-left:12px;}
+.nav-next{float:left;}
+img.alignright{float:left;margin:0 1em 1em 0;}
+img.alignleft{float:right;margin:0 0 1em 1em;}
+img.aligncenter{margin-right:auto;margin-left:auto;}
+.alignright{float:left;margin:5px 20px 20px 0;}
+.alignleft{float:right;margin:5px 0 20px 20px;}
+.aligncenter{margin-right:auto;margin-left:auto;margin:5px auto 5px auto;}
+.comments-title,.comment-list,.comment-reply-title,.must-log-in,.comment-respond .comment-form,.comment-respond iframe{margin-right:auto;margin-left:auto;}
+.sidebar .comments-title,.sidebar .comment-list,.sidebar .must-log-in,.sidebar .comment-reply-title,.sidebar .comment-navigation,.sidebar .comment-respond .comment-form{padding-right:60px;padding-left:376px;}
+.comment-list .children{margin:0 40px 0 0;}
+.comment-author .avatar{float:right;margin:0 0 20px 20px;}
+.comment-list .edit-link{margin-right:20px;}
+.comment-awaiting-moderation:before{margin-left:10px;}
+.comment-reply-link:before,.comment-reply-login:before{margin-left:10px;}
+.comment-reply-title small a{float:left;}
+.comment-form [for="author"],.comment-form [for="email"],.comment-form [for="url"],.comment-form [for="comment"]{float:right;}
+.form-allowed-tags code{margin-right:3px;}
+.sidebar .no-comments{padding-right:60px;padding-left:376px;}
+.alignnone{margin:5px 0 20px 20px;}
+.aligncenter,div.aligncenter{margin:5px auto 5px auto;}
+a img.alignright{float:left;margin:5px 20px 20px 0;}
+a img.alignnone{margin:5px 0 20px 20px;}
+a img.alignleft{float:right;margin:5px 0 20px 20px;}
+a img.aligncenter{margin-right:auto;margin-left:auto;}
+.wp-caption.alignnone{margin:5px 0 20px 20px;}
+.wp-caption.alignleft{margin:5px 0 20px 20px;}
+.wp-caption.alignright{margin:5px 20px 20px 0;}
+div.navigation{margin-right:20px;}
+.navigation li{margin-left:10px;}
+.commentlist .vcard img.avatar{float:right;margin-left:15px;}
+ul.children{padding-right:20px;}
+.commentlist .reply a{float:left;margin-left:10px;}
+#back-top{left:10px;}
+#back-top span{margin-left:30px;}
+.widget.widget_archive select{padding-right:5px;}
+.main-navigation .assistive-text:focus{right:5px;}
+.flex-direction-nav .flex-prev{right:0px;}
+.flex-direction-nav .flex-next{left:0px;}
+.animated-button:link:after, .animated-button:visited:after{right:50%;}
+.animated-button.not-first{margin-right:20px;}
+.nav-links .prev{right:0;}
+.nav-links .next{left:0;}
+.screen-reader-text:focus{right:5px;}
+@media only screen and (max-width:992px) {
+    .sitenav ul li{text-align:right;}
+    .sitenav ul li ul li a{padding-right:20px !important;}
+    .sitenav ul li ul li ul li a{padding-right:30px !important;}
+    .sitenav ul li ul li ul li ul li a{padding-right:40px !important;}
+    .sitenav ul li:hover > ul{right:0;left:0;}
+    .sitenav ul li:hover ul li ul, .sitenav ul li:hover ul li:hover > ul, .sitenav ul li:hover ul li:hover > ul li ul{left:0;right:0;}
+    .sitenav ul li:hover ul li:hover ul, .sitenav ul li:hover ul li:hover ul li:hover ul{right:0 !important;}
+}
+@media screen and (min-width:768px){
+    .flex-caption h1:after{right:50%;margin-right:-20%;}
+}
+@media only screen and (max-width:640px){
+    div.navigation{margin-right:12px;}
+}

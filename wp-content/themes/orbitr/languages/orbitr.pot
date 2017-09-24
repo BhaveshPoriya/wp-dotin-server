@@ -1,0 +1,1034 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Orbitr\n"
+"POT-Creation-Date: 2017-01-01 21:20+0100\n"
+"PO-Revision-Date: 2017-01-01 21:19+0100\n"
+"Last-Translator: Abderrezak El-Mahdi <abderrezak31@gmail.com>\n"
+"Language-Team: Abderrezak El-Mahdi <abderrezak31@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:24
+msgid "This is somewhat embarrassing, isn't it?"
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It seems we can't find what you are looking for. Trying one of the links "
+"below, can help."
+msgstr ""
+
+#: archive.php:57 author.php:51 inc/template-tags.php:61 index.php:41
+#: loop.php:27 tag.php:47 template-parts/content-single.php:29
+msgid "Leave a comment"
+msgstr ""
+
+#: archive.php:57 author.php:51 inc/template-tags.php:61 index.php:41
+#: loop.php:27 tag.php:47 template-parts/content-single.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:57 author.php:51 inc/template-tags.php:61 index.php:41
+#: loop.php:27 tag.php:47 template-parts/content-single.php:29
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:70 author.php:62 index.php:52 loop.php:42 tag.php:58
+#, php-format
+msgid "Continue reading..%s"
+msgstr ""
+
+#: archive.php:83 author.php:75 inc/define_template.php:23 loop.php:54
+#: tag.php:71 template-parts/content-none.php:3
+msgid "Sorry no post matched your criteria"
+msgstr ""
+
+#: author.php:89 index.php:73 tag.php:88
+msgid "<i class=\"fa fa-chevron-left\"></i>"
+msgstr ""
+
+#: author.php:90 index.php:74 tag.php:89
+msgid "<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: author.php:91 index.php:75 tag.php:90
+msgid "Page"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:47
+msgid "Leave a Comment"
+msgstr ""
+
+#: footer.php:69
+#, php-format
+msgid "Theme Design and Develop by %s"
+msgstr ""
+
+#: footer.php:81
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:93
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:105
+msgid "Google+"
+msgstr ""
+
+#: footer.php:117
+msgid "RSS"
+msgstr ""
+
+#: footer.php:129
+msgid "Pinterest"
+msgstr ""
+
+#: footer.php:141
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:106
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:112
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:157
+msgid "Our team section widgets"
+msgstr ""
+
+#: functions.php:193
+msgid "Orbitr - Team member widget"
+msgstr ""
+
+#: functions.php:213 functions.php:225 functions.php:378
+msgid "Uploaded image"
+msgstr ""
+
+#: functions.php:332
+msgid "Name"
+msgstr ""
+
+#: functions.php:336
+msgid "Position"
+msgstr ""
+
+#: functions.php:340
+msgid "Description"
+msgstr ""
+
+#: functions.php:347
+msgid "Facebook link"
+msgstr ""
+
+#: functions.php:352
+msgid "Twitter link"
+msgstr ""
+
+#: functions.php:356
+msgid "Behance link"
+msgstr ""
+
+#: functions.php:361
+msgid "Dribble link"
+msgstr ""
+
+#: functions.php:365
+msgid "Linkedin link"
+msgstr ""
+
+#: functions.php:369
+msgid "Open links in new window?"
+msgstr ""
+
+#: functions.php:372 inc/customizer.php:391 inc/customizer.php:405
+msgid "Image"
+msgstr ""
+
+#: functions.php:385
+msgid "Upload Image"
+msgstr ""
+
+#: functions.php:422
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:424 functions.php:435 functions.php:446 functions.php:457
+#: functions.php:468
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:433
+msgid "First Footer Widget"
+msgstr ""
+
+#: functions.php:444
+msgid "Second Footer Widget"
+msgstr ""
+
+#: functions.php:455
+msgid "Third Footer Widget"
+msgstr ""
+
+#: functions.php:466
+msgid "Fourth Footer Widget"
+msgstr ""
+
+#: functions.php:476
+msgid "Front page - Counter Sidebar"
+msgstr ""
+
+#: functions.php:478
+msgid ""
+"The widgets added in this sidebar will appear in counter section from front "
+"page."
+msgstr ""
+
+#: header.php:46
+msgid "Back to Top"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Parts Settings"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Hide slider section?"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Hide our counter section?"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Hide our team section?"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Hide price tables section?"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Hide Blog section?"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Hide description section?"
+msgstr ""
+
+#: inc/customizer.php:126 inc/customizer.php:166
+msgid "Our team section"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:140 inc/customizer.php:176 sections/our-team.php:11
+msgid "YOUR TEAM"
+msgstr ""
+
+#: inc/customizer.php:145 inc/customizer.php:181
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:153 inc/customizer.php:189 sections/our-team.php:22
+msgid ""
+"Prove that you have real people working for you, with some nice looking "
+"profile pictures and links to social media."
+msgstr ""
+
+#: inc/customizer.php:158 inc/customizer.php:194
+msgid "Our team subtitle"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid ""
+"The main content of this section is customizable in: Dashboard -> Appearance "
+"-> Widgets -> Our team section. There you must add the \"Zerif - Team member "
+"widget\""
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "First Slider"
+msgstr ""
+
+#: inc/customizer.php:221 inc/customizer.php:302
+msgid "Slider Image"
+msgstr ""
+
+#: inc/customizer.php:231 inc/customizer.php:312
+msgid "Slider Title"
+msgstr ""
+
+#: inc/customizer.php:241 inc/customizer.php:322
+msgid "Slider Description"
+msgstr ""
+
+#: inc/customizer.php:251 inc/customizer.php:332
+msgid "First Button Text"
+msgstr ""
+
+#: inc/customizer.php:262 inc/customizer.php:343
+msgid "First Button Link URL"
+msgstr ""
+
+#: inc/customizer.php:272 inc/customizer.php:353
+msgid "Second Button Text"
+msgstr ""
+
+#: inc/customizer.php:283 inc/customizer.php:364
+msgid "Second Button Link URL"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Second Slider"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid ""
+"*In order to get this section to show up on the front-page, make sure you "
+"have: 1) enabled static front-page & 2) have a widget placed in this "
+"sidebar. More specifically go to Widgets -> Front page - counter sidebar & "
+"place the [Illdy] - Counter widget in here."
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Type of Background"
+msgstr ""
+
+#: inc/customizer.php:392 inc/customizer.php:421
+msgid "Color"
+msgstr ""
+
+#: inc/customizer.php:433
+msgid "Pricing Section"
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "Allows you to set up pricing section for OnePage Theme."
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer.php:444
+msgid "Allows you to set up pricing section color for OnePage Theme."
+msgstr ""
+
+#: inc/customizer.php:460
+msgid "Set background color for the section"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Main Heading Color"
+msgstr ""
+
+#: inc/customizer.php:491
+msgid "Sub-heading color"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Pricing box #1 Background Color"
+msgstr ""
+
+#: inc/customizer.php:522
+msgid "Pricing Box #1 Icon Border Color"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Pricing Box #2 Background Color"
+msgstr ""
+
+#: inc/customizer.php:553 inc/customizer.php:568
+msgid "Pricing box #2 Icon Border Color"
+msgstr ""
+
+#: inc/customizer.php:585 inc/customizer.php:601
+msgid "Pricing Box #3 Icon Border Color"
+msgstr ""
+
+#: inc/customizer.php:617
+msgid "Pricing Box Heading Color"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Pricing Box Price Color"
+msgstr ""
+
+#: inc/customizer.php:651
+msgid "Pricing Box Bottom Border Color"
+msgstr ""
+
+#: inc/customizer.php:668
+msgid "Pricing Box Feature Text Color"
+msgstr ""
+
+#: inc/customizer.php:684
+msgid "Pricing Box Buttons Color"
+msgstr ""
+
+#: inc/customizer.php:696
+msgid "Heading Settings"
+msgstr ""
+
+#: inc/customizer.php:697
+msgid "Allows you to set up pricing headings for OnePage Theme."
+msgstr ""
+
+#: inc/customizer.php:710
+msgid "Write main heading for the pricing section"
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Write sub-heading for the pricing section"
+msgstr ""
+
+#: inc/customizer.php:731
+msgid "Pricing Box #1"
+msgstr ""
+
+#: inc/customizer.php:732
+msgid "Allows you to set up pricing box #1."
+msgstr ""
+
+#: inc/customizer.php:746
+msgid "Pricing Box #1 Icon Code"
+msgstr ""
+
+#: inc/customizer.php:748 inc/customizer.php:886 inc/customizer.php:1027
+#, php-format
+msgid ""
+"To display icons, Use bootstrap or font awesome icon code.\n"
+"You can refer the codes from links below. %s"
+msgstr ""
+
+#: inc/customizer.php:761
+msgid "Pricing Box #1 Heading"
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Pricing Box #1 Price"
+msgstr ""
+
+#: inc/customizer.php:785
+msgid "Pricing Box #1 Feature1"
+msgstr ""
+
+#: inc/customizer.php:797
+msgid "Pricing Box #1 Feature2"
+msgstr ""
+
+#: inc/customizer.php:809
+msgid "Pricing Box #1 Feature3"
+msgstr ""
+
+#: inc/customizer.php:821
+msgid "Pricing Box #1 Feature4"
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Pricing Box #1 Feature5"
+msgstr ""
+
+#: inc/customizer.php:841 inc/customizer.php:982 inc/customizer.php:1123
+#: sections/our-prices.php:26 sections/our-prices.php:41
+#: sections/our-prices.php:56
+msgid "View Theme"
+msgstr ""
+
+#: inc/customizer.php:845
+msgid "Pricing Box #1 Button Text"
+msgstr ""
+
+#: inc/customizer.php:857
+msgid "Pricing Box #1 Button Link"
+msgstr ""
+
+#: inc/customizer.php:869
+msgid "Pricing Box #2"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "Allows you to set up pricing box #2."
+msgstr ""
+
+#: inc/customizer.php:884
+msgid "Pricing Box #2 Icon Code"
+msgstr ""
+
+#: inc/customizer.php:899
+msgid "Pricing Box #2 Heading"
+msgstr ""
+
+#: inc/customizer.php:912
+msgid "Pricing Box #2 Price"
+msgstr ""
+
+#: inc/customizer.php:924
+msgid "Pricing Box #2 Feature1"
+msgstr ""
+
+#: inc/customizer.php:937
+msgid "Pricing Box #2 Feature2"
+msgstr ""
+
+#: inc/customizer.php:949
+msgid "Pricing Box #2 Feature3"
+msgstr ""
+
+#: inc/customizer.php:962
+msgid "Pricing Box #2 Feature4"
+msgstr ""
+
+#: inc/customizer.php:974
+msgid "Pricing Box #2 Feature5"
+msgstr ""
+
+#: inc/customizer.php:986
+msgid "Pricing Box#2 Button Text"
+msgstr ""
+
+#: inc/customizer.php:998
+msgid "Pricing Box #2 Button Link"
+msgstr ""
+
+#: inc/customizer.php:1009
+msgid "Pricing Box #3"
+msgstr ""
+
+#: inc/customizer.php:1010
+msgid "Allows you to set up pricing box #3."
+msgstr ""
+
+#: inc/customizer.php:1025
+msgid "Pricing Box #3 Icon Code"
+msgstr ""
+
+#: inc/customizer.php:1040
+msgid "Pricing Box #3 Heading"
+msgstr ""
+
+#: inc/customizer.php:1053
+msgid "Pricing Box #3 Price"
+msgstr ""
+
+#: inc/customizer.php:1065
+msgid "Pricing Box #3 Feature1"
+msgstr ""
+
+#: inc/customizer.php:1078
+msgid "Pricing Box #3 Feature2"
+msgstr ""
+
+#: inc/customizer.php:1090
+msgid "Pricing Box #3 Feature3"
+msgstr ""
+
+#: inc/customizer.php:1103
+msgid "Pricing Box #3 Feature4"
+msgstr ""
+
+#: inc/customizer.php:1115
+msgid "Pricing Box #3 Feature5"
+msgstr ""
+
+#: inc/customizer.php:1127
+msgid "Pricing Box#3 Button Text"
+msgstr ""
+
+#: inc/customizer.php:1139
+msgid "Pricing Box #3 Button Link"
+msgstr ""
+
+#: inc/customizer.php:1149
+msgid "Description Section"
+msgstr ""
+
+#: inc/customizer.php:1158
+msgid "About Us Title"
+msgstr ""
+
+#: inc/customizer.php:1168
+msgid "About Us Description"
+msgstr ""
+
+#: inc/customizer.php:1179
+msgid "Blog Area Options"
+msgstr ""
+
+#: inc/customizer.php:1188
+msgid "Heading For Blogs"
+msgstr ""
+
+#: inc/customizer.php:1200
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:1208
+msgid "Footer Credit Text"
+msgstr ""
+
+#: inc/customizer.php:1218
+msgid "Scoial Media Options"
+msgstr ""
+
+#: inc/customizer.php:1228
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/customizer.php:1240
+msgid "Twitter Page URL"
+msgstr ""
+
+#: inc/customizer.php:1252
+msgid "Google Plus Page URL"
+msgstr ""
+
+#: inc/customizer.php:1264
+msgid "RSS Page URL"
+msgstr ""
+
+#: inc/customizer.php:1276
+msgid "Pinterest Page URL"
+msgstr ""
+
+#: inc/customizer.php:1288
+msgid "Linkedin Page URL"
+msgstr ""
+
+#: inc/customizer.php:1295
+msgid "Custom Style"
+msgstr ""
+
+#: inc/customizer.php:1301
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:1319
+msgid "Menu background"
+msgstr ""
+
+#: inc/define_template.php:2
+msgid "Daily Archives"
+msgstr ""
+
+#: inc/define_template.php:3
+msgid "Monthly Archives"
+msgstr ""
+
+#: inc/define_template.php:4
+msgid "Yearly Archives"
+msgstr ""
+
+#: inc/define_template.php:5
+msgid "Blog Archives"
+msgstr ""
+
+#: inc/define_template.php:6
+msgid "Most Used Categories"
+msgstr ""
+
+#: inc/define_template.php:7
+msgid "Try Looking Monthly Archives"
+msgstr ""
+
+#: inc/define_template.php:8
+msgid "&larr; Older Posts"
+msgstr ""
+
+#: inc/define_template.php:9
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: inc/define_template.php:10
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: inc/define_template.php:11
+#, php-format
+msgid "By %2$s"
+msgstr ""
+
+#: inc/define_template.php:12
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/define_template.php:13
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: inc/define_template.php:14
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: inc/define_template.php:15
+msgid "Link to full-size image"
+msgstr ""
+
+#: inc/define_template.php:16 inc/template-tags.php:65
+msgid "Edit"
+msgstr ""
+
+#: inc/define_template.php:17
+msgid "Bookmark the"
+msgstr ""
+
+#: inc/define_template.php:18
+msgid "&nbsp;permalink"
+msgstr ""
+
+#: inc/define_template.php:19
+msgid "Pages:"
+msgstr ""
+
+#: inc/define_template.php:20
+#, php-format
+msgid "All posts by : %s"
+msgstr ""
+
+#: inc/define_template.php:21
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/define_template.php:22
+msgid "Home"
+msgstr ""
+
+#: inc/define_template.php:24
+msgid "Primary Widget Area"
+msgstr ""
+
+#: inc/define_template.php:25
+msgid "The primary widget area"
+msgstr ""
+
+#: inc/define_template.php:26
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: inc/define_template.php:27
+msgid "The secondary widget area"
+msgstr ""
+
+#: inc/define_template.php:28
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: inc/define_template.php:29
+msgid "The first footer widget area"
+msgstr ""
+
+#: inc/define_template.php:30
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: inc/define_template.php:31
+msgid "The second footer widget area"
+msgstr ""
+
+#: inc/define_template.php:32
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: inc/define_template.php:33
+msgid "The third footer widget area"
+msgstr ""
+
+#: inc/define_template.php:34
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: inc/define_template.php:35
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: inc/define_template.php:36
+msgid "Main Menu"
+msgstr ""
+
+#: inc/define_template.php:37
+msgid "Categories"
+msgstr ""
+
+#: inc/define_template.php:38
+msgid "Archives"
+msgstr ""
+
+#: inc/define_template.php:39
+msgid "Contact Us"
+msgstr ""
+
+#: inc/define_template.php:40
+msgid "Location Map"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid " %1$s "
+msgstr ""
+
+#: inc/widgets.php:8
+msgid "[Illdy] - Counter"
+msgstr ""
+
+#: inc/widgets.php:8
+msgid "Add this widget in \"Front page - Counter Sidebar\"."
+msgstr ""
+
+#: inc/widgets.php:46
+msgid "[Illdy] - Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:47
+msgid "1"
+msgstr ""
+
+#: inc/widgets.php:48
+msgid "260"
+msgstr ""
+
+#: inc/widgets.php:49
+msgid "2000"
+msgstr ""
+
+#: inc/widgets.php:50
+msgid "100"
+msgstr ""
+
+#: inc/widgets.php:53
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:58
+msgid "Data from:"
+msgstr ""
+
+#: inc/widgets.php:59
+msgid "The number the element should start at."
+msgstr ""
+
+#: inc/widgets.php:64
+msgid "Data to:"
+msgstr ""
+
+#: inc/widgets.php:65
+msgid "The number the element should end at."
+msgstr ""
+
+#: inc/widgets.php:70
+msgid "Data speed:"
+msgstr ""
+
+#: inc/widgets.php:71
+msgid "How long it should take to count between the target numbers."
+msgstr ""
+
+#: inc/widgets.php:76
+msgid "Data refresh interval:"
+msgstr ""
+
+#: inc/widgets.php:77
+msgid "How often the element should be updated."
+msgstr ""
+
+#: sections/descript.php:15
+msgid "Build Your Clean & Optimized Website Within Few Clicks"
+msgstr ""
+
+#: sections/descript.php:23
+msgid ""
+"Creating your website with orbitr is completely easy. You just need to "
+"perform few tweaks in the theme option panel and your website will be ready "
+"to use. You can showcase all important aspects of your business here on home "
+"page."
+msgstr ""
+
+#: sections/home-slider.php:30
+msgid "Elegant & Stylish Theme"
+msgstr ""
+
+#: sections/home-slider.php:39
+msgid ""
+"Orbitr Theme is based on Bootstrap and it is fully functional and Responsive "
+"for all screens."
+msgstr ""
+
+#: sections/home-slider.php:48
+msgid "Demo Here"
+msgstr ""
+
+#: sections/home-slider.php:56
+msgid "Download"
+msgstr ""
+
+#: sections/our-blog.php:13
+msgid "Recent Blogs"
+msgstr ""
+
+#: sections/our-blog.php:62
+#, php-format
+msgid "Read More %s"
+msgstr ""
+
+#: sections/our-counter.php:37
+msgid "Projects"
+msgstr ""
+
+#: sections/our-counter.php:38
+msgid "Clients"
+msgstr ""
+
+#: sections/our-counter.php:39
+msgid "Coffes"
+msgstr ""
+
+#: sections/our-prices.php:7
+msgid "Checkout Pricing Section"
+msgstr ""
+
+#: sections/our-prices.php:9
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: sections/our-prices.php:19
+msgid "Single Plan"
+msgstr ""
+
+#: sections/our-prices.php:21 sections/our-prices.php:36
+#: sections/our-prices.php:51
+msgid "Unlimited Access"
+msgstr ""
+
+#: sections/our-prices.php:22 sections/our-prices.php:37
+#: sections/our-prices.php:52
+msgid "20 GB Storage"
+msgstr ""
+
+#: sections/our-prices.php:23 sections/our-prices.php:38
+#: sections/our-prices.php:53
+msgid "200 Cups of Coffee Free"
+msgstr ""
+
+#: sections/our-prices.php:24 sections/our-prices.php:39
+#: sections/our-prices.php:54
+msgid "6 Months Support"
+msgstr ""
+
+#: sections/our-prices.php:25 sections/our-prices.php:40
+#: sections/our-prices.php:55
+msgid "Full Theme Access"
+msgstr ""
+
+#: sections/our-prices.php:34
+msgid "Multiple Plan"
+msgstr ""
+
+#: sections/our-prices.php:49
+msgid "Full Member"
+msgstr ""
+
+#: single.php:30
+msgid ""
+"<span class=\"meta-nav\">&larr;</span> Previous Post <span class=\"post-title"
+"\">%title</span>"
+msgstr ""
+
+#: single.php:32
+msgid ""
+"Next Post <span class=\"meta-nav\">&rarr;</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Orbitr"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.retina-theme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Orbitr is a beautiful theme, designed especially for business and portfolio "
+"websites and also has a beautiful minimal blog layout. This theme has many "
+"customizable features that will help you showcase your company's web "
+"presence."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "retina-theme.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://retina-theme.com/"
+msgstr ""
