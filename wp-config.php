@@ -26,7 +26,7 @@ define('DB_NAME', 'portfolio');
 define('DB_USER', 'ajayport');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'openitnowforme2'); 
+define('DB_PASSWORD', 'openitnowforme2');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
