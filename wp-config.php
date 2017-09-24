@@ -23,7 +23,7 @@
 define('DB_NAME', 'portfolio');
 
 /** MySQL database username */
-define('DB_USER', 'portuser');
+define('DB_USER', 'ajayport');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'openitnowforme2'); 
